@@ -1,2 +1,7 @@
 # swc-demo-20230720
-A demo repository
+
+Software Carpentry Demonstration Repository
+
+
+TODO
+* invite somebody to collaborate
